@@ -23,9 +23,8 @@ function updateNav() {
   $vlinks.children('*:not(.masthead__menu-item--lg)').last().prependTo($hlinks);
 
   // Show the dropdown btn
-  if($btn.hasClass('hidden')) {
-    $btn.removeClass('hidden');
-  }
+
+  $btn.removeClass('hidden');
 
   // Keep counter updated
   $btn.attr("count", breaks.length);
