@@ -27,7 +27,7 @@ function updateNav() {
   $btn.removeClass('hidden');
 
   // Keep counter updated
-  $btn.attr("count", breaks.length);
+  $btn.attr("count", 7);
 
   updateNav();
 
