@@ -18,10 +18,12 @@ Her overarching goal is to build AI systems that are technically principled, ope
 
 Selected Publications
 ======
-- Shao, Wei\*, Yufan Kang\*, Ziyan Peng, Xiao Xiao, Lei Wang, Yuhui Yang, Flora D. Salim, Spatio-temporal Early Prediction based on Multi-objective Reinforcement Learning. Proceedings of the 29th ACM SIGKDD Conference on Knowledge Discovery and Data Mining. 2024.
-- Kang, Yufan, Rongsheng Zhang, Wei Shao, Flora D. Salim, and Jeffrey Chan, 2024, July. Promoting Two-sided Fairness in Dynamic Vehicle Routing Problems. In Proceedings of the Genetic and Evolutionary Computation Conference. 
-- Shao, Wei\*, Ziyan Peng\*, Yufan Kang\*, Xiao Xiao, and Zhiling Jin. [Early Spatiotemporal Event Prediction via Adaptive Controller and Spatiotemporal Embedding](https://ieeexplore.ieee.org/abstract/document/10415705). In 2023 IEEE International Conference on Data Mining (ICDM), pp. 1307-1312. IEEE, 2023.
-- Shao, Wei\* & Zhiling, Jin\* & Wang, Shuo & Kang, Yufan & Xiao, Xiao & Menouar, Hamid & Zhang, Zhaofeng & Zhang, Junshan & Salim, Flora. (2022). [Long-term Spatio-Temporal Forecasting via Dynamic Multiple-Graph Attention](https://arxiv.org/abs/2204.11008). 2200-2207. 10.24963/ijcai.2022/306. 
-- Kang, Yufan, Mohammad Saiedur Rahaman, Yongli Ren, Mark Sanderson, Ryen W. White, and Flora D. Salim. [App usage on-the-move: Context-and commute-aware next app prediction](http://ryenwhite.com/papers/KangPMC2022.pdf). Pervasive and Mobile Computing 87 (2022): 101704.
+- Keqing Du, **Yufan Kang**, Xinyu Yang, and Wei Shao. (2026). ST-HHOL: Spatio-Temporal Hierarchical Hypergraph Online Learning for Crime Prediction. In International Conference on Learning Representations (ICLR).
+- **Yufan Kang**, Jie Zhang, Wei Shao, Rui Tang, Mark Andrejevic, Jeffrey Chan, and Flora D. Salim. (2025). Dynamic Budgeted Reinforcement Learning for Fairness in Spatial-Temporal Resource Allocation. In ACM SIGSPATIAL International Conference on Advances in Geographic Information Systems (SIGSPATIAL).
+- **Yufan Kang**, Jeffrey Chan, Wei Shao, Flora D. Salim, and Christopher Leckie. (2024). Long-term Fairness in Ride-Hailing Platform. In Joint European Conference on Machine Learning and Knowledge Discovery in Databases (ECML PKDD), pp. 223–239. Springer.
+- Wei Shao\*, **Yufan Kang**\*, Ziyan Peng, Xiao Xiao, Lei Wang, Yuhui Yang, and Flora D. Salim. (2024). STEMO: Early Spatio-temporal Forecasting with Multi-Objective Reinforcement Learning. In ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (KDD). (\* indicates equal contribution)
+-  **Yufan Kang**, Rongsheng Zhang, Wei Shao, Flora Salim, and Jeffrey Chan. (2024). Promoting Two-sided Fairness in Dynamic Vehicle Routing Problems. In Proceedings of the Genetic and Evolutionary Computation Conference (GECCO), pp. 759–767.
+- Wei Shao\*, Ziyan Peng\*, **Yufan Kang**\*, Xiao Xiao, and Zhiling Jin. (2023). Early Spatiotemporal Event Prediction via Adaptive Controller and Spatiotemporal Embedding. In IEEE International Conference on Data Mining (ICDM). (\* indicates equal contribution)
+- **Yufan Kang**, Mohammad Saiedur Rahaman, Yongli Ren, Mark Sanderson, Ryen W. White, and Flora D. Salim. (2022). App Usage on-the-Move: Context- and Commute-Aware Next App Prediction. In Pervasive and Mobile Computing, 87, 101704.
 
 
