@@ -6,9 +6,15 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I'm currently a PhD Student from the School of Computing Technologies at RMIT University under the supervision of Prof. Jeffrey Chan and Prof. Flora D. Salim. I'm also a student member of [Australian Research Council (ARC) Centre of Excellence for Automated Decision-Making and Society (ADM+S)](https://www.admscentre.org.au). I started her PhD in 2021 and expected to finish in 2025, and I mainly work in the direction of Responsible AI in Spatial-Temporal Data Mining.
+Yufan Kang is a Research Fellow at Monash University whose work sits at the intersection of trustworthy AI, spatio-temporal modelling, and AI planning. Her research investigates how intelligent systems make decisions over time and space, with an emphasis on robustness, long-term impact, and responsible deployment.
 
-Before starting my PhD degree, I completed my Honours degree in Computer Science in the direction of Pervasive Mobile Computing, and I was a research intern in Microsoft Cortana Intelligence Institute after my Honours degree. Before that, I completed my Bachelor degree in the University of Melbourne in major of both Discrete Mathematics and Statistics and Computer Science. 
+She completed her PhD in Computer Science at RMIT University, where she studied spatial-temporal resource allocation under dynamic and uncertain environments. Her work develops principled learning and optimisation frameworks that integrate predictive modelling with sequential decision-making, enabling AI systems to operate reliably in real-world settings.
+
+In trustworthy AI, she examines the reliability, accountability, and societal implications of automated decision systems. In spatio-temporal modelling, she designs models that capture complex dependencies across space and time for forecasting and allocation tasks. In AI planning, she focuses on reinforcement learning and optimisation methods for large-scale, dynamic decision problems, including routing, allocation, and ranking systems.
+
+Her research has been published in leading venues such as ICLR, KDD, IJCAI, ICDM, ECML PKDD, SIGSPATIAL, and GECCO. She is also a member of the [Australian Research Council (ARC) Centre of Excellence for Automated Decision-Making and Society (ADM+S)](https://www.admscentre.org.au), contributing to interdisciplinary research on the societal implications of automated decision systems.
+
+Her overarching goal is to build AI systems that are technically principled, operationally robust, and aligned with long-term societal values. 
 
 Selected Publications
 ======
