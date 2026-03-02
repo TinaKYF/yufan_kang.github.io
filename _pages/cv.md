@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Yufan Kang"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -8,8 +8,6 @@ redirect_from:
 ---
 
 {% include base_path %}
-
-# Yufan Kang
 
 Melbourne, Australia  
 (+61) 406 191 028  
@@ -36,8 +34,9 @@ RMIT University, Apr 2021 - Feb 2025
 - Thesis: *Robust Fairness in Spatial-Temporal Resource Allocation*
 
 **Bachelor of Computer Science (Honours)**  
-RMIT University, Aug 2019 - July 2020  
-- Relevant coursework: Data Mining, Research Methods, Honours Thesis
+RMIT University, Aug 2019 - July 2020 
+- Thesis: APP Usage Understanding and Prediction While Commuting 
+- Relevant coursework: Data Mining, Research Methods
 
 **Bachelor of Science (Discrete Mathematics and Statistics)**  
 The University of Melbourne, Mar 2013 - Dec 2017  
@@ -45,7 +44,24 @@ The University of Melbourne, Mar 2013 - Dec 2017
 
 ---
 
-## Research Experience
+## Project Experience
+
+**[Australian Ad Observatory](https://www.admscentre.org.au/adobservatory/)**  
+ARC Centre of Excellence for Automated Decision-Making and Society (ADM+S)  
+Research Fellow, Monash University / ADM+S, Feb 2025 – Present  
+
+- Contribute to a national research infrastructure for studying targeted online advertising using data donation and hybrid digital methods.  
+- Analyse patterns of automated advertising exposure across social media and mobile platforms to improve transparency and public accountability.  
+- Investigate how algorithmic advertising systems interact with user identity, behavioural signals, and platform dynamics.  
+
+**[Evaluating Automated Cultural Curating and Ranking Systems with Synthetic Data](https://www.admscentre.org.au/evaluating-automated-cultural-curating-and-ranking-systems-with-synthetic-data/)**  
+ARC Centre of Excellence for Automated Decision-Making and Society (ADM+S)  
+Research Fellow, Monash University / ADM+S, Feb 2025 – Present  
+
+- Develop evaluation frameworks for automated ranking and recommender systems shaping cultural and informational exposure.  
+- Design synthetic data methodologies to systematically assess bias, diversity, and public-interest alignment in content curation systems.  
+- Contribute to interdisciplinary research connecting computational methods with regulatory, societal, and policy perspectives.  
+
 
 **Responsive and Real-time Fair AI in Spatial-Temporal Data**  
 PhD Student, RMIT University, Apr 2021 - Feb 2025  
