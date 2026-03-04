@@ -35,7 +35,7 @@ RMIT University, Apr 2021 - Feb 2025
 
 **Bachelor of Computer Science (Honours)**  
 RMIT University, Aug 2019 - July 2020 
-- Thesis: APP Usage Understanding and Prediction While COMMUTING 
+- Thesis: *APP Usage Understanding and Prediction While Commuting* 
 - Relevant coursework: Data Mining, Research Methods
 
 **Bachelor of Science (Discrete Mathematics and Statistics)**  
